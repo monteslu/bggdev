@@ -19,3 +19,7 @@ Then run it with:
 `
 node app.js
 `
+
+Then open your browser to http://localhost:3000
+
+
